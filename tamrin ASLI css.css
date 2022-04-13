@@ -1,0 +1,36 @@
+h1 {
+    color: brown;
+}
+h2 {
+    color: chartreuse;
+    background-color: blue;
+}
+H3 {font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+H4 {
+    font-style: italic;
+}
+H5, samp {
+    
+    font-variant: small-caps;
+}
+h1 {
+    line-height: 550%;
+}
+span {
+    height: 60px;
+    width: 60px;
+    background: #00ff00;
+}
+div {
+    height: 100px;
+    width: 40%;
+    background: #00ffff;
+}
+p{
+    background: #ffff00;
+    width: 200px;
+    height: 100px;
+    overflow: auto;
+}
